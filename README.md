@@ -1,7 +1,7 @@
-# WasteTracker : Smart way of waste  measurement and disposal
+# WasteTracker : A smart method of measuring and getting rid of garbage
 
-1)Automatic lid opening
-2) Trash weight measurement
-3) Waste can be monitored easily
+1) Automatic lid opening when waste is detected
+2) Measure trash weight
+3) Waste monitoring
 
-sofware use:arduino
+sofware use: ARDUINO
